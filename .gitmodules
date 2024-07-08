@@ -1,0 +1,3 @@
+[submodule "reference/wandb-examples"]
+	path = reference/wandb-examples
+	url = git@github.com:AoyuQC/wandb-examples.git
